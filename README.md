@@ -1,4 +1,4 @@
-# ff-apik
+# ff-api
 
 ### Fantasy Football API that pulls in every NFL player. My goal is to turn this into a fully functional app that is geared to helping fantasy football players win their league.
 ---

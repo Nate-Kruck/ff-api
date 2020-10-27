@@ -18,7 +18,7 @@ const PlayerList = ({ players }) => {
 
 PlayerList.propTypes = {
   players: PropTypes.arrayOf(PropTypes.shape({
-    active: PropTypes.string.isRequired,
+    playerId: PropTypes.string.isRequired,
     fname: PropTypes.string.isRequired,
     lname: PropTypes.string.isRequired,
     team: PropTypes.string.isRequired
